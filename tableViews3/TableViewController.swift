@@ -9,7 +9,6 @@ import UIKit
 
 class TableViewController: UITableViewController {
 
-    
     var listaPaises = [Pais]()
     
     override func viewDidLoad() {
